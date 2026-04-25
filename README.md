@@ -1,2 +1,23 @@
-# simple-python-calculator
-i made this code while newly learning python, my first lesson was to learn variable, and after learning i made simplest calculator that adds,substracts, multiply,and divide after taking input from user of two numbers--its my first code on github, i will later make it advance 
+# Python Calculator
+A simple calculator built using Python as part of my learning journey.
+## Features
+* Addition
+* Subtraction
+* Multiplication
+* Division
+## What I Learned
+* Using variables and user input
+* Conditional statements (if/else)
+* Basic problem-solving in Python
+## How to Run
+1. Make sure Python is installed
+2. Run the file:
+   ```bash
+   calculator.py
+   ```
+
+## Future Improvements
+
+* Add more operations (power, modulus)
+* Improve user input handling
+* Convert into a loop-based calculator
